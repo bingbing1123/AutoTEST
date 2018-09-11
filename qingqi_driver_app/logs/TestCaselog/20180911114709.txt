@@ -1,0 +1,12 @@
+2018-09-11 11:47:19,258 - mylogger - INFO - **********************关于我们用例执行***************************
+2018-09-11 11:47:24,351 - mylogger - INFO - 已进入到登录页面
+2018-09-11 11:47:40,260 - mylogger - INFO - 已登录成功
+2018-09-11 11:47:45,016 - mylogger - INFO - 已点击了升级弹框
+2018-09-11 11:47:45,022 - mylogger - INFO - 点击完升级弹框已等待10ms
+2018-09-11 11:47:45,231 - mylogger - INFO - 点击关于我们
+2018-09-11 11:47:50,597 - mylogger - INFO - 创建D:\pycharm\AutoTEST\qingqi_driver_app\logs\文件夹
+2018-09-11 11:47:50,598 - mylogger - INFO - 创建D:\pycharm\AutoTEST\qingqi_driver_app\screenshots\文件夹
+2018-09-11 11:47:50,598 - mylogger - INFO - 创建D:\pycharm\AutoTEST\qingqi_driver_app\result_reports\文件夹
+2018-09-11 11:47:50,599 - mylogger - INFO - 调用截图方法
+2018-09-11 11:47:50,600 - mylogger - INFO - 创建D:\pycharm\AutoTEST\qingqi_driver_app\screenshots\test_aboutus/文件夹
+2018-09-11 11:47:50,600 - mylogger - INFO - 创建文件D:\pycharm\AutoTEST\qingqi_driver_app\screenshots\test_aboutus/20180911114750..png
